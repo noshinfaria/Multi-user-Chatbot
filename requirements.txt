@@ -2,3 +2,7 @@ langchain-ollama
 langchain_community
 langchain_openai
 langchain_core
+langchain_openai
+docx2txt
+pypdf
+unstructured
